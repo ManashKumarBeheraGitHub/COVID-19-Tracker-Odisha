@@ -14,10 +14,10 @@
 
 Screenshot-1
 
-<img src="https://user-images.githubusercontent.com/97502927/156629075-682d1b3e-5cb8-44b2-897c-b14dc6b004b5.PNG" width="1600" height="900">
+<img src="https://user-images.githubusercontent.com/97502927/156629075-682d1b3e-5cb8-44b2-897c-b14dc6b004b5.PNG" width="1400" height="600">
 
 Screenshot-2
 
-<img src="https://user-images.githubusercontent.com/97502927/156629299-f2b8a34b-c845-41a6-bb75-6e4b0cb89e80.PNG" width="1600" height="900">
+<img src="https://user-images.githubusercontent.com/97502927/156629299-f2b8a34b-c845-41a6-bb75-6e4b0cb89e80.PNG" width="1400" height="600">
 
 <h4>Thank You</h4> 
